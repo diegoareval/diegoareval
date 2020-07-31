@@ -13,7 +13,7 @@
       </ul>
   <li>⚡ React Native/ React JS developer (since 2019)</li>
   <li>⚡ Java Developer since version 8 (10+ Apps)</li>
-  <li>👨🏽‍💻  One Year like C# developer (2+ Apps)</li>
+  <li>👨🏽‍💻  One year as C# developer   (2+ Apps)</li>
   <li>👨🏽‍💻  high level practices with Python (Django y Flask)</li>
   <li>⚡  Javascript/Typescript developer (Professional Level)</li>
   <li>👨🏽‍💻  High level knowledges in Backend a Frontend development</li>

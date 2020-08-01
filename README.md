@@ -1,6 +1,6 @@
 
 <h1>Hi!! My name is Diego Arevalo</h1>
-<p>💬 I'm Frontend Developer and anothers skills</p>
+<p>💬 I'm Frontend Developer and another skills</p>
 <ul>
   <li> degree in computing (UMOAR)</li>
   <li>💻 Languages and Technologies:</li>
@@ -20,5 +20,6 @@
   <li>👨🏽‍💻  High level knowledges managing noSQL and SQL DB's as: <b>Mysql</b>, <b>Postgres</b>, <b>Firebase</b></li>
   <li>⚡ Extensive knowledge in software architecture (Dessign Paterns like Builder and Singleton)</li>
   <li>⚡ Languages: English and Spanish and German on Basic Levels </li>
+  <li>:robot: of course, on my own.(+20 apps)</li>
 </ul>
 

@@ -9,10 +9,11 @@
         <li>Python</li>
         <li>Ruby</li>
         <li>JavaScript/TypeScript</li>
+        <li>Node JS/ Nest Js</li>
         <li>Android/IOS (CrossPlatform)</li>
       </ul>
+  <li>⚡ Angular (since 2020)</li>
   <li>⚡ React Native/ React JS/Next JS developer (since 2019)</li>
-  <li>⚡ Nest JS/Express/Node JS (backend)</li>
   <li>⚡ Web Design with some frameworks as: <b>Bootstrap</b>, <b>Materialize</b>, <b>Bulma</b>, etc</li>
   <li>⚡ Java Developer since version 8 (10+ Apps)</li>
   <li>👨🏽‍💻  One year as C# developer   (2+ Apps)</li>

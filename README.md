@@ -23,7 +23,7 @@
   <li>👨🏽‍💻  High level knowledges in Backend a Frontend development</li>
   <li>👨🏽‍💻  High level knowledges managing noSQL and SQL DB's as: <b>Mysql</b>, <b>Postgres</b>, <b>Firebase</b></li>
   <li>⚡ Extensive knowledge in software architecture (with Dessign Paterns)</li>
-  <li>⚡ Languages: English and Spanish and German on Basic Levels </li>
-  <li>:robot: of course, on my own.(+20 apps)</li>
+  <li>⚡ Languages: English and Spanish </li>
+  <li>:robot: of course, on my own.(+25 apps)</li>
 </ul>
 

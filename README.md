@@ -16,7 +16,7 @@
   <li>⚡ React Native/ React JS/Next JS developer (since 2019)</li>
   <li>⚡ Web Design with some frameworks as: <b>Bootstrap</b>, <b>Materialize</b>, <b>Bulma</b>, etc</li>
   <li>⚡ Java Developer since version 8 (10+ Apps)</li>
-  <li>👨🏽‍💻  One year as C# developer   (2+ Apps)</li>
+  <li>👨🏽‍💻 Solidity + web3.js </li>
   <li>👨🏽‍💻  high level practices with Python (Django y Flask)</li>
   <li>⚡  Javascript/Typescript developer (Professional Level)</li>
   <li>⚡  Ruby/Ruby on rails developer (Professional Level)</li>

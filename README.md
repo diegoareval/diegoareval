@@ -22,7 +22,7 @@
   <li>⚡  Javascript/Typescript developer (Professional Level)</li>
   <li>⚡  Ruby/Ruby on rails developer (Professional Level)</li>
   <li>👨🏽‍💻  High level knowledges in Backend a Frontend development</li>
-  <li>👨🏽‍💻  High level knowledges managing noSQL(Mongo and Firebase) and SQL DB's as: <b>Mysql</b>, <b>Postgres</b>, <b>Firebase</b></li>
+  <li>👨🏽‍💻  High level knowledges managing noSQL(Mongo, Firebase, Elasticsearch, and Redis for caché) and SQL DB's as: <b>Mysql</b>, <b>Postgres</b>, <b>Firebase</b></li>
   <li>⚡ Extensive knowledge in software architecture (with Dessign Paterns)</li>
   <li>⚡ Languages: English and Spanish </li>
   <li>:robot: of course, on my own.(+25 apps)</li>

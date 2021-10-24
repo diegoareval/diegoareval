@@ -1,6 +1,6 @@
 
 <h1>Hi!! My name is Diego Arevalo</h1>
-<p>💬 I'm Frontend Developer and another skills</p>
+<p>💬 I'm Fullstack Developer and another skills</p>
 <ul>
   <li> degree in computing (UMOAR)</li>
   <li>💻 Languages and Technologies:</li>
@@ -10,6 +10,7 @@
         <li>Ruby</li>
         <li>JavaScript/TypeScript</li>
         <li>Node JS/ Nest Js</li>
+        <li>Google Firebase Funtions/Docker/kubernetes</li>
         <li>Android/IOS (CrossPlatform)</li>
       </ul>
   <li>⚡ Angular (since 2020)</li>
@@ -21,7 +22,7 @@
   <li>⚡  Javascript/Typescript developer (Professional Level)</li>
   <li>⚡  Ruby/Ruby on rails developer (Professional Level)</li>
   <li>👨🏽‍💻  High level knowledges in Backend a Frontend development</li>
-  <li>👨🏽‍💻  High level knowledges managing noSQL and SQL DB's as: <b>Mysql</b>, <b>Postgres</b>, <b>Firebase</b></li>
+  <li>👨🏽‍💻  High level knowledges managing noSQL(Mongo and Firebase) and SQL DB's as: <b>Mysql</b>, <b>Postgres</b>, <b>Firebase</b></li>
   <li>⚡ Extensive knowledge in software architecture (with Dessign Paterns)</li>
   <li>⚡ Languages: English and Spanish </li>
   <li>:robot: of course, on my own.(+25 apps)</li>

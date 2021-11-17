@@ -10,13 +10,13 @@
         <li>Ruby</li>
         <li>JavaScript/TypeScript</li>
         <li>Node JS/ Nest Js</li>
+        <li>Solidity</li>
         <li>Google Firebase Funtions/Docker/kubernetes</li>
         <li>Android/IOS (CrossPlatform)</li>
       </ul>
   <li>⚡ Angular (since 2020)</li>
   <li>⚡ React Native/ React JS/Next JS developer (since 2019)</li>
   <li>⚡ Web Design with some frameworks as: <b>Bootstrap</b>, <b>Materialize</b>, <b>Bulma</b>, etc</li>
-  <li>⚡ Java Developer since version 8 (10+ Apps)</li>
   <li>👨🏽‍💻 Solidity + web3.js </li>
   <li>👨🏽‍💻  high level practices with Python (Django y Flask)</li>
   <li>⚡  Javascript/Typescript developer (Professional Level)</li>
